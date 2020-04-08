@@ -1,4 +1,4 @@
-# Use-Case Specification: Social Gardening
+# Use-Case Specification: Marktplatz
 
 # Table of Contents
 - [Analyze Acceleration Behavior](#1-analyze-acceleration-behavior)
