@@ -37,11 +37,13 @@ In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Pr
 Vorlagen an denen man sich orientieren kann:
 
 Gartengemeinschaft:
+
 ![alt text][Gartengemeinschaft]
 
 [Gartengemeinschaft]: https://github.com/linkna/IM-Projekt/blob/master/UseCases/SocialGardening/Gartengemeinschaft.jpg
 
 Nutzerprofil:
+
 ![alt text][Nutzerprofil]
 
 [Nutzerprofil]: https://github.com/linkna/IM-Projekt/blob/master/UseCases/SocialGardening/Social%20Gardening%20Profil.jpg
