@@ -13,7 +13,7 @@
 - [Postconditions](#5-postconditions)
 
 # 1. Analyze Acceleration Behavior
-
+## 1.1 Brief Description
 Personen die keinen Garten haben, wollen oft trotzdem, eigenes Gemüse anbauen und nutzen dafür moderne Technologien um Pflanzen in der Wohnung zu ziehen oder versuchen es mit vertikalem Gärtnern auf dem Balkon. Dies bedeutet meist, zu wenig Platz für die gewünschte Vielfalt.
 Personen die einen Garten haben, ziehen oft ihre Jungplanzen selbst. Um den gewünschten Bestand zu erreichen, wird bei der Aussaat etwa 30% Verlust kalkuliert. Häufig keimen mehr Pflanzen als erwartet. So entsteht bei Jungpflanzen ein Überschhuss. Die überzähligen Pflanzen werden oft entsorgt.
 Bei Gartenbesitzern werden nicht immer alle Beete beplanzt, da sie selbst nicht soviel Bedarf haben, so liegen manche Beet brach, während andere Personen gerne etwas anbauen würden, aber keinen Platz dafür haben.
@@ -34,44 +34,16 @@ In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Pr
 
 ## 2.2 MockUp
 
+Vorlagen an denen man sich orientieren kann:
+
+![alt text][Gartengemeinschaft]
+
+[Gartengemeinschaft]: https://github.com/linkna/IM-Projekt/blob/master/UseCases/SocialGardening/Gartengemeinschaft.jpg
+
 ![alt text][Nutzerprofil]
 
 [Nutzerprofil]: https://github.com/linkna/IM-Projekt/blob/master/UseCases/SocialGardening/Social%20Gardening%20Profil.jpg
 
-![alt text][MockUp1]
-
-[MockUp1]: https://github.com/linkna...
 
 
-## 2.3 Feature
 
-[Feature](https://github.com/linkna/FyF/blob/master/app/src/androidTest/assets/login.feature)
-
-# 3. Special Requirements
-## 3.1 Device connection 
-The device has to be connected to the internet.
-## 3.2 Screen size support 
-Since the app can be used on every android phone, there will be many different screen sizes. The layout should not waste space on big screens and should still be readable on small screens.
-
-# 4. Preconditions
-## 4.1 App opened on screen
-The app must be running and opened on the screen. 
-
-## 4.3 The profile is already created
-To login into an account, the profile has to exist.
-
-# 5. Postconditions
-
-## 5.1 Managing success
-Map is shown. User can view and edit his profile.
-
-## 5.2 Managing failure
-
-Display a notification, saying that and why (if possible) the login failed.
-
-# 6. Function Points
-Value: 13
-
-![alt text][fp]
-
-[fp]: https://github.com/linkna/FyF/blob/master/documentation/UC/login%20fp.JPG
