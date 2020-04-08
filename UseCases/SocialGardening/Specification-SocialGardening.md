@@ -18,7 +18,7 @@ Social Gardening soll den Nutzern eine Crowd Farming Plattform bieten. Nutzer k�
 Die Gartengemeinschaft kann als virtuelle Nachbarschaft angelegt werden.
 Die virtuelle Nachbarschaft bietet einen Marktplatz, um Gesuche zu erstellen. Dem Nutzer werden entsprechend dem Gesuch die passenden Anbieter angezeigt und kann direkt vermittelt werden. Gibt es aktuell kein passendes Angebot, so wird das Gesuch im Marktplatz gepostet.
 In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Profil kann der Nutzer sein Angebot und Vermittlungsanfragen verwalten.
-Über die virtuellen Beete kann der Nutzer Angaben zu seinem Garten teilen. Hier können freie Beete beworben und aktuelle Status der Pflnzen geteilt werden. (Z.B. "frisch gesät", "Jungpflanze", "bald erntereif")
+Über die virtuellen Beete kann der Nutzer Angaben zu seinem Garten teilen. Hier können freie Beete beworben und der aktuelle Status der Pflanzen geteilt werden. (Z.B. "frisch gesät", "Jungpflanze", "bald erntereif")
 
 ## 1.2 Screenshots
 
