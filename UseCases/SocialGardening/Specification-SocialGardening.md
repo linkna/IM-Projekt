@@ -7,10 +7,7 @@
 - [Flow of Events](#2-flow-of-events)
     - [Basic Flow](#21-basic-flow)
     - [MockUp](#22-mockup)
-    - [Feature](#23-feature)    
-- [Special Requirements](#3-special-requirements)
-- [Preconditions](#4-preconditions)
-- [Postconditions](#5-postconditions)
+
 
 # 1. Analyze Acceleration Behavior
 ## 1.1 Brief Description
