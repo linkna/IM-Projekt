@@ -16,11 +16,12 @@
 ## 1.1 Brief Description
 Personen die keinen Garten haben, wollen oft trotzdem, eigenes Gemüse anbauen und nutzen dafür moderne Technologien um Pflanzen in der Wohnung zu ziehen oder versuchen es mit vertikalem Gärtnern auf dem Balkon. Dies bedeutet meist, zu wenig Platz für die gewünschte Vielfalt.
 Personen die einen Garten haben, ziehen oft ihre Jungplanzen selbst. Um den gewünschten Bestand zu erreichen, wird bei der Aussaat etwa 30% Verlust kalkuliert. Häufig keimen mehr Pflanzen als erwartet. So entsteht bei Jungpflanzen ein Überschhuss. Die überzähligen Pflanzen werden oft entsorgt.
-Bei Gartenbesitzern werden nicht immer alle Beete beplanzt, da sie selbst nicht soviel Bedarf haben, so liegen manche Beet brach, während andere Personen gerne etwas anbauen würden, aber keinen Platz dafür haben.
+Bei Gartenbesitzern werden nicht immer alle Beete beplanzt, da sie selbst nicht soviel Bedarf haben, so liegen manche Beete brach, während andere Personen gerne etwas anbauen würden, aber keinen Platz dafür haben.
 Social Gardening soll den Nutzern eine Crowd Farming Plattform bieten. Nutzer können mit ihrer Nachbarschaft eine lokale Gartengemeinschaft gründen. Ressourcen können gemeinsam genutzt werden. 
 Die Gartengemeinschaft kann als virtuelle Nachbarschaft angelegt werden.
-Die virtuelle Nachbarschaft biette einen Marktplatz, um Gesuche zu erstellen. Dem Nutzer werden entsprechend dem Gesuch die passenden Anbieter angezeigt und kann direkt vermittelt werden. Gibt es aktuell kein passendes Angebot, so wird das Gesuch im Marktplatz gepostet.
-In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Profil kann der Nutzer sein Angebot und Vermittlungsanfragen verwalten. 
+Die virtuelle Nachbarschaft bietet einen Marktplatz, um Gesuche zu erstellen. Dem Nutzer werden entsprechend dem Gesuch die passenden Anbieter angezeigt und kann direkt vermittelt werden. Gibt es aktuell kein passendes Angebot, so wird das Gesuch im Marktplatz gepostet.
+In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Profil kann der Nutzer sein Angebot und Vermittlungsanfragen verwalten.
+Über die virtuellen Beete kann der Nutzer Angaben zu seinem Garten teilen. Hier können freie Beete beworben und aktuelle Status der Pflnzen geteilt werden. (Z.B. "frisch gesät", "Jungpflanze", "bald erntereif")
 
 ## 1.2 Screenshots
 
