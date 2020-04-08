@@ -34,9 +34,9 @@ In der virtuellen Nachbarschaft hat jedes Mitglied ein eigenes Profil. In dem Pr
 
 ## 2.2 MockUp
 
-![alt text][MockUp2]
+![alt text][Nutzerprofil]
 
-[MockUp2]: https://github.com/linkna...
+[Nutzerprofil]: https://github.com/linkna/IM-Projekt/blob/master/UseCases/SocialGardening/Social%20Gardening%20Profil.jpg
 
 ![alt text][MockUp1]
 
