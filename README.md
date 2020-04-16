@@ -1,5 +1,5 @@
 # IM-Projekt
-![Logo](/Logo/CareForShare_Transparent.png)
+![Logo](/Logo/CareForShare_TransparentCut.png)
 
 ## Projektname: CareForShare
 
