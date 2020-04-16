@@ -1,6 +1,7 @@
 # IM-Projekt
+![Logo](/Logo/CareForShare_Transparent.png)
 
-Projektname:
+## Projektname: CareForShare
 
 pep - prevent environmental pollution
 
